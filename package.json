@@ -15,8 +15,8 @@
     "next": "^12.1.0",
     "nextra": "^1.1.0",
     "nextra-theme-docs": "^1.2.2",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
   },
   "devDependencies": {
     "prettier": "^2.0.5"
